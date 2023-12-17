@@ -3,4 +3,12 @@
 
 
 
-# Coffee-Sales-Analysis
+# Coffee Sales Analysis
+In this project we have coffee sales data and this data have 3 tables Orders, Customers and Products. I have analyze the data with the help of excel and make an interactive dashboard.
+
+# Skills
+* Microsoft Excel
+  
+# Dataset  
+* Download the dataset from [Google Drive](https://1drv.ms/x/c/308364de6ed0bdec/EYaurOAbsf1Ll1tUHDJ2poUB1vBLjENAlWvAUESGSybdzQ?e=19150C).
+  
