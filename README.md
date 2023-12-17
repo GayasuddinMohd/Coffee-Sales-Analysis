@@ -12,3 +12,7 @@ In this project we have coffee sales data and this data have 3 tables Orders, Cu
 # Dataset  
 * Download the dataset from [Google Drive](https://1drv.ms/x/c/308364de6ed0bdec/EYaurOAbsf1Ll1tUHDJ2poUB1vBLjENAlWvAUESGSybdzQ?e=19150C).
   
+# Questions 
+* Calculate the total sales revenue over the time period.
+* Identify the countries with the highest revenue generated from coffee sales.
+* Determine the top customers based on the highest total amount spent on coffee purchases.
