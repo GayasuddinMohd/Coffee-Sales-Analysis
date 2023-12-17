@@ -18,3 +18,5 @@ In this project we have coffee sales data and this data have 3 tables Orders, Cu
 * See the dashboard from [Google Drive](https://1drv.ms/x/c/308364de6ed0bdec/EZ3olujatWVBhxgjk_O7MJIBA0T3D1YLRZzmEnbhwCBYHg?e=kIDoga).
   
 # Insights  
+* Top countries with the highest coffee sales revenue are the United States, Ireland, and the United Kingdom.
+* Top customers based on the highest total amount spent on coffee purchase are Don Flintiff, Brice Romera and Alexa Sizey.
